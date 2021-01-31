@@ -24,5 +24,37 @@
         height: 600px;
         padding-top: 100px;
     }
+    img.slider-img{
+        height:200px !important
+        
+    }
+    .custom-product{
+        height: 600px;
+       
+    }
+    .slider-text{
+        background-color: #35443585 !important;
+    }
+    img.trending-image{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 15%;
+    }
+    .trending-wrapper{
+         margin: 30px;
+    }
+    img.detail-img{
+        height: 200px !important;
+    }
+    .search-box{
+        width: 500px !important
+    }
+    .cart-list-devider{
+         border: 1px solid black;
+         margin-bottom: 20px;
+         padding-bottom: 20px;
+    }
     </style>
 </html>
